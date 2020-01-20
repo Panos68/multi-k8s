@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="433a2ea9-4abc-451b-a75b-2698904f9015" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,10 +55,11 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="506" y="282" width="667" height="486" key="find.popup/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1579268077958" />
-    <state x="505" y="237" width="670" height="622" key="search.everywhere.popup" timestamp="1579274453339">
-      <screen x="0" y="23" width="1680" height="965" />
+    <state x="505" y="237" width="670" height="623" key="search.everywhere.popup" timestamp="1579516111933">
+      <screen x="0" y="23" width="1680" height="966" />
     </state>
     <state x="505" y="237" width="670" height="622" key="search.everywhere.popup/0.23.1680.965@0.23.1680.965" timestamp="1579274453339" />
+    <state x="505" y="237" width="670" height="623" key="search.everywhere.popup/0.23.1680.966@0.23.1680.966" timestamp="1579516111933" />
     <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1579266766094" />
   </component>
 </project>
